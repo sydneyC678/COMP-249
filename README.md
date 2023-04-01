@@ -21,7 +21,9 @@ Assignment 3:
 - The goal was to read through a file consisting of 16 different files names, and then individually reading through the contents of each file.
 
 Part 1 - identify the syntax errors in the files, and store the book records in a syntax error file.
+
 Part 2 - identify the semantic errors in the syntatically correct files, and store those book records in a semantic error file. Then store the good records individually in their corresponding new file names, store their book records in their corresponding array and convert each array object to binary.
+
 Part 3 - Deserialize the converted binary files, and create an interactive program that allows you to navigate through the files.
 
 Assignment 4:
