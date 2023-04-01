@@ -16,7 +16,7 @@ Assignment 2:
 - The goal is to figure out which access attributes are best used, as well as making sure the equals and toString methods are properly overriden, as well as other methods, followed by playing around with creating multiple different objects associated with the classes, and testing out all their functions.
 
 Assignment 3:
-- Consisted of the topic of File I/O. 
+- Consisted of the topic of File I/O and Exception Handling.
 - Used the practice of reading files and printing to files. As well as creating binary files and deserializing.
 - The goal was to read through a file consisting of 16 different files names, and then individually reading through the contents of each file.
 
