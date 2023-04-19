@@ -26,7 +26,7 @@ Part 2 - identify the semantic errors in the syntatically correct files, and sto
 
 Part 3 - Deserialize the converted binary files, and create an interactive program that allows you to navigate through the files.
 
-Assignment 4:
+
 
 
 All work is original.
